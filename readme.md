@@ -1,6 +1,6 @@
 # HouseCraft  
 Source code of  
-**Hang Chu**, Shenlong Wang, Sanja Fidler, Raquel Urtasun. HouseCraft: Building Houses from Rental Ads and Street Views, ECCV 2016. ([paper](http://chuhang.github.io/files/publications/ECCV_16.pdf))|([project](http://www.cs.toronto.edu/housecraft))|([video](https://vimeo.com/174261051))  
+**Hang Chu**, Shenlong Wang, Raquel Urtasun, Sanja Fidler. HouseCraft: Building Houses from Rental Ads and Street Views, ECCV 2016. ([paper](http://chuhang.github.io/files/publications/ECCV_16.pdf))|([project](http://www.cs.toronto.edu/housecraft))|([video](https://vimeo.com/174261051))  
 ## How to run
 No need for external packages or extra configurations. In MATLAB, cd to `HouseCraft`, and excute  
 `run`  
