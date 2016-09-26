@@ -1,0 +1,8 @@
+Matlab wrapper to ANN class 
+written by Shai Bagon
+www.wisdom.weizmann.ac.il/~bagon
+
+Mar2012:
+- bug fix in text_ann_wrapper.m: for frsearch test, if no point found in R test crashed.
+  Thank you Junior Liang for spotting this bug.
+  

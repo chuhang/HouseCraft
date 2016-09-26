@@ -1,0 +1,5 @@
+For the convenience of users, HouseCraft includes the edges toolbox by Piotr Dollar.
+
+We are willing to exclude this toolbox and provide a link instead, in case of any copyright issues.
+
+- HouseCraft team
